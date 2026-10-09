@@ -1,6 +1,6 @@
 ### Hi, I'm Muhammad Saqlain 👋
 
-Undergraduate student from **Jaranwala, Pakistan**, building strong fundamentals in **Linux, Python, and IT support** — working toward **cloud security**.
+Undergraduate student from **Faisalabad, Pakistan**, building strong fundamentals in **Linux, Python, and IT support** — working toward **cloud security**.
 
 - 🐧 Currently deep in **Linux system administration** & shell scripting
 - 🐍 Learning **Python** for scripting and automation
