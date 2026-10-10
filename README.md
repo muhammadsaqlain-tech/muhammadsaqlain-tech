@@ -24,8 +24,8 @@ Undergraduate student from **Faisalabad, Pakistan**, building strong fundamental
 
 ## Certifications
 
-- 🎓 **Google** — Technical Support Fundamentals (Coursera, 2026)
-- 🎓 **Johns Hopkins University** — HTML, CSS & JavaScript for Web Developers (Coursera)
+- 🎓 **Google** — [Technical Support Fundamentals](https://coursera.org/share/80f6cb6efac86039d36dc8572efe8a6e) (Coursera, 2026)
+- 🎓 **Johns Hopkins University** — [HTML, CSS & JavaScript for Web Developers](https://coursera.org/share/030fba57ebb2a8704ea4e7ca2611d064) (Coursera)
 
 ## Projects
 
