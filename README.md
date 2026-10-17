@@ -1,16 +1,17 @@
 ### Hi, I'm Muhammad Saqlain 👋
 
-Undergraduate student from **Faisalabad, Pakistan**, building strong fundamentals in **Linux, Python, and IT support** — working toward **cloud security**.
+Aspiring **cloud engineer** and Computer Science undergraduate from **Faisalabad, Pakistan**. Currently studying at the University of Agriculture, Faisalabad, and available for remote internships.
 
-- 🐧 Currently deep in **Linux system administration** & shell scripting
-- 🐍 Learning **Python** for scripting and automation
-- 🛡️ Exploring **cybersecurity** — passive security assessments & phishing analysis (building PhishGuard as my final-year project)
-- 🎓 Google-certified in IT Support Fundamentals
+- ☁️ Learning **AWS** (SAA theory) and **networking** at CCNA level
+- 🐧 Comfortable with **Linux**, **Python** scripting and **C#/.NET**
+- 🛡️ Building **PhishGuard** — a static file-intelligence toolkit (file hashes, real file type, PDF red flags)
+- 🎓 Certified by Google and Johns Hopkins University (see below)
 - 🌐 Portfolio: [muhammadsaqlain.net](https://muhammadsaqlain.net)
 - 📫 Reach me: muhammadsaqlain4787@gmail.com · [LinkedIn](https://linkedin.com/in/muhammadsaqlain-tech)
 
 ## Tech stack
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -25,15 +26,16 @@ Undergraduate student from **Faisalabad, Pakistan**, building strong fundamental
 ## Certifications
 
 - 🎓 **Google** — [Technical Support Fundamentals](https://coursera.org/verify/YG0T0H0NZ019) (Coursera, 2026)
-- 🎓 **Johns Hopkins University** — [HTML, CSS & JavaScript for Web Developers](https://coursera.org/verify/5JKNPKEJ7MOV) (Coursera)
+- 🎓 **Johns Hopkins University** — [HTML, CSS & JavaScript for Web Developers](https://coursera.org/verify/5JKNPKEJN7OV) (Coursera, 2026)
 
 ## Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | [saqlain-portfolio](https://github.com/muhammadsaqlain-tech/saqlain-portfolio) | Personal portfolio — dark/light mode, responsive, live on custom domain | React, TypeScript, Vite |
-| PhishGuard | Final-year project: static phishing file analyzer *(in progress)* | Python |
+| PhishGuard | Static file-intelligence toolkit — hashes, file type and PDF red flags, with PDF reports *(in progress)* | Python, JavaScript |
 | FastFoodPOS | Restaurant POS & management system | C#, .NET, SQL Server |
+| [student-management-system](https://github.com/muhammadsaqlain-tech/student-management-system) | Student records — enrolment, attendance, marks and results | C#, .NET WinForms, XML |
 
 ## GitHub stats
 
@@ -48,4 +50,4 @@ Undergraduate student from **Faisalabad, Pakistan**, building strong fundamental
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaqlain-tech)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsaqlain4787@gmail.com)
 
-Open to remote internships and trainee roles in Linux, Python, IT support & cloud.
+Open to remote internships in cloud, networking and IT support.
