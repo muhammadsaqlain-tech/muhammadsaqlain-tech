@@ -36,6 +36,7 @@ Aspiring **cloud engineer** and Computer Science undergraduate from **Faisalabad
 | PhishGuard | Static file-intelligence toolkit — hashes, file type and PDF red flags, with PDF reports *(in progress)* | Python, JavaScript |
 | FastFoodPOS | Restaurant POS & management system | C#, .NET, SQL Server |
 | [student-management-system](https://github.com/muhammadsaqlain-tech/student-management-system) | Student records — enrolment, attendance, marks and results | C#, .NET WinForms, XML |
+| Personal Finance Management System | Income and expense tracker — category-wise budgeting, monthly summaries and spending reports | C#, .NET WinForms, SQL Server |
 
 ## GitHub stats
 
